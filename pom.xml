@@ -11,9 +11,14 @@
 	<groupId>com.learning</groupId>
 	<artifactId>CoreJava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CoreJava</name>
+    <packaging>pom</packaging>
+    <name>CoreJava</name>
 	<description>Core Java project for Spring Boot</description>
-	<properties>
+    <modules>
+        <module>Java8</module>
+		<module>Java</module>
+	</modules>
+    <properties>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>

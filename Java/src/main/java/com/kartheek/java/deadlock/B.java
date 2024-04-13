@@ -1,4 +1,4 @@
-package com.learning.corejava.deadlock;
+package com.kartheek.java.deadlock;
 
 public class B {
     public synchronized void bar(A a) {
