@@ -17,7 +17,8 @@
     <modules>
         <module>Java8</module>
 		<module>Java</module>
-	</modules>
+        <module>Interface</module>
+    </modules>
     <properties>
 		<java.version>17</java.version>
 	</properties>
